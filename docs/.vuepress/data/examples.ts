@@ -92,4 +92,8 @@ export default [
     link: "https://blog.shiyio.uk",
     avator: "https://blog.shiyio.uk/logo.jpg"
   },
+  { name: "Manufacture Industry IT experiences and Knowledge",
+    link: "https://json-zhao-cn.github.io/MdBlog/",
+    desc: "This blog for Manufacture Industry IT experiences and Knowledge",
+  }, 
 ]
